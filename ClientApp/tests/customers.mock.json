@@ -1,0 +1,68 @@
+[
+  {
+    "customerId": 1,
+    "name": "Ke4",
+    "email": "rkjuez@cutradition.com",
+    "phone": "123 123-1231232",
+    "status": "Active",
+    "createdAt": "2024-10-25T09:50:01.5545460+13:00",
+    "opportunities": [
+      {
+        "opportunityId": 1,
+        "name": "q1",
+        "status": "New",
+        "customerId": 1
+      },
+      {
+        "opportunityId": 2,
+        "name": "q3",
+        "status": "New",
+        "customerId": 1
+      }
+    ]
+  },
+  {
+    "customerId": 2,
+    "name": "Ke1",
+    "email": "rkjuez@cutradition.com",
+    "phone": "123 123-1231232",
+    "status": "Active",
+    "createdAt": "2024-10-25T09:50:06.4510370+13:00",
+    "opportunities": [
+      {
+        "opportunityId": 3,
+        "name": "q1",
+        "status": "New",
+        "customerId": 2
+      },
+      {
+        "opportunityId": 4,
+        "name": "q3",
+        "status": "New",
+        "customerId": 2
+      }
+    ]
+  },
+  {
+    "customerId": 3,
+    "name": "Ke3",
+    "email": "rkjuez@cutradition.com",
+    "phone": "123 123-1231232",
+    "status": "Active",
+    "createdAt": "2024-10-25T09:50:09.3130570+13:00",
+    "opportunities": [
+      {
+        "opportunityId": 5,
+        "name": "q1",
+        "status": "New",
+        "customerId": 3
+      },
+      {
+        "opportunityId": 6,
+        "name": "q3",
+        "status": "New",
+        "customerId": 3
+      }
+    ]
+  }
+]

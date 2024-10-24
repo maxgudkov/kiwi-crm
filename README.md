@@ -23,5 +23,6 @@ npm run build
 
 ```
 cd ..
+dotnet ef database update
 dotnet run
 ```
